@@ -107,6 +107,6 @@ ul li:hover:nth-child(3) a{
 ul li:hover:nth-child(3) a:before{
     background-color:  #3b5998;
 }
-ul li:hover:nth-child(3) a:after{
+ul li:hover:nth-child(3`) a:after{
     background-color:  #00aced;
 }
